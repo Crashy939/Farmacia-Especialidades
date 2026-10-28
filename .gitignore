@@ -1,0 +1,29 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configuración local y secretos
+.env
+*.env
+*.local
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.bak
+.cache/
+.pytest_cache/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Capturas y archivos generados
+capturas/
+*.png
